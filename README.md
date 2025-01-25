@@ -16,7 +16,7 @@ An intelligent e-commerce product tracking tool that uses vision-language models
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/h9-tec/Price_tracking_agents.git
 cd track
 ```
 
